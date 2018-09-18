@@ -1,0 +1,6 @@
+slp_linkedlist.lo: slp_linkedlist.c /usr/include/stdc-predef.h \
+ slp_linkedlist.h
+
+/usr/include/stdc-predef.h:
+
+slp_linkedlist.h:
